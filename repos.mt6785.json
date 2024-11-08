@@ -4,7 +4,7 @@
       "name": "ksu_android_kernel",
       "repo": "https://github.com/nvn-bisht/android_kernel_realme_RM6785.git",
       "branch": "lineage-21",
-      "device": "lineage_mt6785",
+      "device": "openela",
       "defconfig": "RM6785_defconfig"
     },
     "withKernelSU": true,
