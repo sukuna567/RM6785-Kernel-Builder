@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": {
-      "name": "ksu_android_kernel",
+      "name": "L+Kernel+KSU",
       "repo": "https://github.com/AbzRaider/android_kernel_realme_mt6785.git",
-      "branch": "lineage-21",
-      "device": "openela",
+      "branch": "android-15",
+      "device": "RM6785",
       "defconfig": "oppo6769_defconfig"
     },
     "withKernelSU": false,
