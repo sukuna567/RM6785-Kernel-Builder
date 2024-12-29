@@ -2,12 +2,12 @@
   {
     "kernelSource": {
       "name": "ksu_android_kernel",
-      "repo": "https://github.com/nvn-bisht/android_kernel_realme_RM6785.git",
+      "repo": "https://github.com/AbzRaider/android_kernel_realme_mt6785.git",
       "branch": "lineage-21",
       "device": "openela",
-      "defconfig": "RM6785_defconfig"
+      "defconfig": "oppo6769_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
@@ -39,7 +39,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/nvn-bisht/AnyKernel3.git",
+      "repo": "https://github.com/elohim-etz/AK3",
       "branch": "rm6785"
     }
   }
