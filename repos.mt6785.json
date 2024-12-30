@@ -5,7 +5,7 @@
       "repo": "https://github.com/Chitransh193/android_kernel_realme_mt6785.git",
       "branch": "lineage-21",
       "device": "RM6785",
-      "defconfig": "oppo6785_defconfig"
+      "defconfig": "RM6785_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
