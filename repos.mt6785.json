@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "L+Kernel+KSU",
-      "repo": "https://github.com/AbzRaider/android_kernel_realme_mt6785.git",
-      "branch": "android-15",
+      "name": "LINEAGE+PLUS",
+      "repo": "https://github.com/Chitransh193/android_kernel_realme_mt6785.git",
+      "branch": "lineage-21",
       "device": "RM6785",
-      "defconfig": "oppo6769_defconfig"
+      "defconfig": "oppo6785_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
