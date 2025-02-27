@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "LINEAGE+PLUS",
-      "repo": "https://github.com/Chitransh193/android_kernel_realme_mt6785.git",
-      "branch": "lineage-21",
+      "name": "LineagePlus+KSUNext+SUSFS",
+      "repo": "https://github.com/Chitransh193/LineagePlusA13_Kernel_RM6785",
+      "branch": "main",
       "device": "RM6785",
       "defconfig": "RM6785_defconfig"
     },
