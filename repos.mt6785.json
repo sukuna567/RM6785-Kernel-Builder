@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "LineagePLUS-A13-KSUNext",
-      "repo": "https://github.com/Chitransh193/LineagePlusA13_Kernel_RM6785",
+      "name": "BoltKernel-A13-KSUNext",
+      "repo": "https://github.com/Chitransh193/BoltKernel-A13_RM6785",
       "branch": "main",
       "device": "RM6785",
       "defconfig": "RM6785_defconfig"
