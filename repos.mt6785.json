@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "LineagePLUS-A14-KSUNext",
-      "repo": "https://github.com/Chitransh193/LineagePLUS-A14_Kernel_RM6785",
+      "name": "LineagePLUS-A13-KSUNext",
+      "repo": "https://github.com/Chitransh193/LineagePlusA13_Kernel_RM6785",
       "branch": "main",
       "device": "RM6785",
       "defconfig": "RM6785_defconfig"
