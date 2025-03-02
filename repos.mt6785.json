@@ -39,8 +39,8 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/elohim-etz/AK3",
-      "branch": "takoyaki"
+      "repo": "https://github.com/Chitransh193/AK3",
+      "branch": "main"
     }
   }
 ]
