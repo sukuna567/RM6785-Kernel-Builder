@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "BoltKernel-V4-KSUNext",
-      "repo": "https://github.com/Chitransh193/-BoltKernel-A14_RM6785",
+      "name": "BoltKernel-V5-TEST",
+      "repo": "https://github.com/Chitransh193/Bolt-Kernel-TEST",
       "branch": "main",
       "device": "RM6785",
       "defconfig": "RM6785_defconfig"
