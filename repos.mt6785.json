@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "BoltKernel-V5-TEST",
+      "name": "BoltKernel-V5-TEST-A13",
       "repo": "https://github.com/Chitransh193/Bolt-Kernel-TEST",
       "branch": "main",
       "device": "RM6785",
