@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Neolit-Kernel",
-      "repo": "https://github.com/Chitransh193/kernel_realme_wasabi",
+      "name": "Leaf-Kernel",
+      "repo": "https://github.com/Chitransh193/Leaf-Kernel-RM6785",
       "branch": "main",
       "device": "RM6785",
-      "defconfig": "wasabi_defconfig"
+      "defconfig": "RM6785_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
