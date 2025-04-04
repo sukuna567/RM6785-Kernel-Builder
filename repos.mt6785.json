@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Leaf-Kernel",
-      "repo": "https://github.com/Chitransh193/Leaf-Kernel-RM6785",
+      "name": "Stormbreaker-Kernel-Salaa",
+      "repo": "https://github.com/Chitransh193/Realme-Stormbreaker-Kernel-Salaa",
       "branch": "main",
       "device": "RM6785",
-      "defconfig": "RM6785_defconfig"
+      "defconfig": "salaa_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
