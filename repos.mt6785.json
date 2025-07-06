@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "Stormbreaker-Kernel",
-      "repo": "https://github.com/Chitransh193/Stormbeaker-RM6785-RUI2.0",
-      "branch": "main",
+      "name": "Sukuna-Perf-Kernel",
+      "repo": "https://github.com/sukuna567/Sukuna-Perf-Kernel-RM6785-rui2.0",
+      "branch": "master",
       "device": "RM6785",
       "defconfig": "RM6785_defconfig"
     },
