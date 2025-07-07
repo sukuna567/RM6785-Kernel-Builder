@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Sukuna-Perf-Kernel-RM6785-rui2",
+      "name": "Sukuna-Perf-Kernel",
       "repo": "https://github.com/sukuna567/Sukuna-Perf-Kernel-RM6785-rui2.0",
       "branch": "master",
       "device": "RM6785",
