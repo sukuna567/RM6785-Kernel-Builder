@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "SukunaKernel-rm6785",
-      "repo": "https://github.com/sukuna567/android_kernel_realme_mt6785",
-      "branch": "lineage-22.2",
+      "repo": "https://github.com/sukuna567/android_kernel_realme_mt6785/tree/stable",
+      "branch": "stable",
       "device": "RM6785",
       "defconfig": "RM6785_defconfig"
     },
