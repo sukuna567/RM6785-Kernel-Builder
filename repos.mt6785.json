@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "Sukuna-Perf-Kernel-RM6785-rui2.0",
-      "repo": "https://github.com/sukuna567/Sukuna-Perf-Kernel-RM6785-rui2.0",
-      "branch": "master",
+      "name": "Sukuna-Perf-Kernel",
+      "repo": "https://github.com/sukuna567/kernel_realme_mt6785",
+      "branch": "fifteen",
       "device": "RM6785",
       "defconfig": "RM6785_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
