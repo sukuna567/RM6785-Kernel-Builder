@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "SukunaKernel-rm6785",
-      "repo": "https://github.com/sukuna567/android_kernel_realme_mt6785",
-      "branch": "stable",
+      "repo": "https://github.com/sukuna567/kernel_realme_wasabi",
+      "branch": "R",
       "device": "RM6785",
-      "defconfig": "RM6785_defconfig"
+      "defconfig": "wasabi_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
