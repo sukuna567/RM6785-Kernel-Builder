@@ -150,10 +150,11 @@ jobs:
           make ${{ env.args }} ${{ env.DEFCONFIG_NAME }}
 
       - name: "📦 Add missing dtboimg_create script"
+        working-directory: ${{ env.KERNEL_NAME }}
         run: |
+          mkdir -p scripts/dtc
           curl -Lo scripts/dtc/dtboimg_create https://raw.githubusercontent.com/LineageOS/android_system_libufdt/lineage-20/utils/src/dtboimg_create
           chmod +x scripts/dtc/dtboimg_create
-    
 
       - name: "🎶 Build kernel"
         working-directory: ${{ env.KERNEL_NAME }}
