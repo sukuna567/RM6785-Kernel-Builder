@@ -159,7 +159,6 @@ jobs:
 
       - name: "📦 Add missing dtboimg_create script"
         run: |
-          curl -Lo ${{ env.KERNEL_NAME }}/scripts/dtc/dtboimg_create https://raw.githubusercontent.com/LineageOS/android_system_libufdt/lineage-20/utils/src/dtboimg_create
           chmod +x ${{ env.KERNEL_NAME }}/scripts/dtc/dtboimg_create
     
       - name: "📦 Build dtbo.img"
