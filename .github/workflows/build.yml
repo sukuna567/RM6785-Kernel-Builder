@@ -159,7 +159,7 @@ jobs:
 
       - name: "📦 Add missing dtboimg_create script"
         run: |
-          chmod +x ${{ env.KERNEL_NAME }}/scripts/dtc/dtboimg_create
+          chmod +x /scripts/dtc/dtboimg_create
     
       - name: "📦 Build dtbo.img"
         working-directory: ${{ env.KERNEL_NAME }}
