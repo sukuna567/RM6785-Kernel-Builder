@@ -157,18 +157,6 @@ jobs:
           echo "PATH Variable: $PATH"
           make ${args}
 
-      - name: "📦 Add missing dtboimg_create script"
-        run: |
-          chmod +x scripts/dtc/dtboimg_create
-    
-      - name: "📦 Build dtbo.img"
-        working-directory: ${{ env.KERNEL_NAME }}
-        env:
-          args: ${{ steps.generate-args.outputs.args }}
-        run: |
-          echo "📦 Building dtbo.img..."
-          make ${args} dtbo.img
-
       - name: "💛 Upload Image"
         uses: actions/upload-artifact@v4
         env:
