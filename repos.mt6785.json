@@ -5,7 +5,7 @@
       "repo": "https://github.com/sukuna567/android_kernel_xiaomi_earth",
       "branch": "lineage-22.1",
       "device": "RM6785",
-      "defconfig": "wasabi_defconfig"
+      "defconfig": "earth_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
