@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Darkness-Kernel-3.14",
-      "repo": "https://github.com/sukuna567/android_kernel_xiaomi_earth",
-      "branch": "lineage-22.1",
-      "device": "earth",
-      "defconfig": "earth_defconfig"
+      "name": "Dragon-Kernel-3.14",
+      "repo": "https://github.com/sukuna567/kernel_realme_wasabi",
+      "branch": "R",
+      "device": "RM6785",
+      "defconfig": "wasabi_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
