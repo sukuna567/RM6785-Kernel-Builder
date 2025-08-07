@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Sukuna-Ryōiki<>Tenkai-Kernel",
+      "name": "Sukuna-RyōikiTenkai-Kernel",
       "repo": "https://github.com/sukuna567/kernel_realme_wasabi",
       "branch": "R",
       "device": "RM6785",
