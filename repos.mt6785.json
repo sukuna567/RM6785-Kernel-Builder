@@ -5,7 +5,7 @@
       "repo": "https://github.com/Luks-organization/kernel_realme_MT6785",
       "branch": "bka",
       "device": "SALA",
-      "defconfig": "wasabi_defconfig"
+      "defconfig": "MT6785_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
