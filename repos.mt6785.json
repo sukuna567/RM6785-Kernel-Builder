@@ -10,8 +10,8 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.5",
-        "branch": "clang-20",
+        "repo": "https://gitlab.com/LeCmnGend/clang/-/tree/clang-19?ref_type=heads",
+        "branch": "clang-19",
         "name": "clang",
         "binPath": ["./bin"]
       }
