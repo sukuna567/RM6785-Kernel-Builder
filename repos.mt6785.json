@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Gaming-Edition-Kernel",
-      "repo": "https://github.com/Luks-organization/kernel_realme_MT6785",
-      "branch": "bka",
-      "device": "SALA",
-      "defconfig": "MT6785_defconfig"
+      "repo": "https://github.com/sukuna567/kernel_realme_wasabi",
+      "branch": "R",
+      "device": "RM6785",
+      "defconfig": "wasabi_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
