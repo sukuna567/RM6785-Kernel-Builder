@@ -10,7 +10,7 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+/refs/heads/main/clang-r547379",
+        "repo": "https://github.com/llvm/llvm-project/releases/tag/llvmorg-21.1.5",
         "branch": "clang-20",
         "name": "clang",
         "binPath": ["./bin"]
