@@ -10,7 +10,7 @@
     "withKernelSU": false,
     "toolchains": [
       {
-        "repo": "https://gitlab.com/LeCmnGend/clang/-/tree/clang-19?ref_type=heads",
+        "repo": "https://gitlab.com/LeCmnGend/clang.git",
         "branch": "clang-19",
         "name": "clang",
         "binPath": ["./bin"]
