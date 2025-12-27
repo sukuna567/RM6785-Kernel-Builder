@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Gaming-Edition-Kernel",
       "repo": "https://github.com/sukuna567/sukuna-kernel",
-      "branch": "Dragon",
+      "branch": "main",
       "device": "",
       "defconfig": "wasabi_defconfig"
     },
