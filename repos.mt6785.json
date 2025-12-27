@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Gaming-Edition-Kernel",
       "repo": "https://github.com/sukuna567/kernel_realme_wasabi",
-      "branch": "R",
+      "branch": "Dragon",
       "device": "RM6785",
       "defconfig": "wasabi_defconfig"
     },
