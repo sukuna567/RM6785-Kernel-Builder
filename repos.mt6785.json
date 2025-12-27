@@ -4,7 +4,7 @@
       "name": "Gaming-Edition-Kernel",
       "repo": "https://github.com/sukuna567/sukuna-kernel",
       "branch": "Dragon",
-      "device": "RM6785",
+      "device": "",
       "defconfig": "wasabi_defconfig"
     },
     "withKernelSU": false,
