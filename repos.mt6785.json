@@ -2,9 +2,9 @@
   {
     "kernelSource": {
       "name": "Gaming-Edition-Kernel",
-      "repo": "https://github.com/sukuna567/sukuna-kernel",
-      "branch": "main",
-      "device": "",
+      "repo": "https://github.com/sukuna567/kernel_realme_wasabi",
+      "branch": "R",
+      "device": "Dragon",
       "defconfig": "wasabi_defconfig"
     },
     "withKernelSU": false,
