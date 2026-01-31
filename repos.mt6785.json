@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": {
-      "name": "Gaming-Edition-Kernel",
+      "name": "Esport-Edition-NoMercy",
       "repo": "https://github.com/sukuna567/kernel_realme_wasabi",
-      "branch": "main",
-      "device": "Dragon",
+      "branch": "R",
+      "device": "rm6785",
       "defconfig": "wasabi_defconfig"
     },
     "withKernelSU": false,
