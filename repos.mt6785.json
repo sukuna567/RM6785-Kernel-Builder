@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Esport-Edition-NoMercy",
-      "repo": "https://github.com/sukuna567/android-kernel_Azrael_RM6785",
-      "branch": "V7",
+      "repo": "https://github.com/sukuna567/android_kernel_realme_mt6785",
+      "branch": "stable",
       "device": "rm6785",
       "defconfig": "RM6785_defconfig"
     },
