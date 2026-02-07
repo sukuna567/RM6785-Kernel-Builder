@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Esport-Edition-NoMercy",
-      "repo": "https://github.com/sukuna567/kernel_realme_wasabi",
-      "branch": "R",
+      "repo": "https://github.com/sukuna567/android-kernel_Azrael_RM6785",
+      "branch": "V7",
       "device": "rm6785",
-      "defconfig": "wasabi_defconfig"
+      "defconfig": "RM6785_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
