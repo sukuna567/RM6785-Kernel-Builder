@@ -5,7 +5,7 @@
       "repo": "https://github.com/sukuna567/Esport-Edition-NoMercy",
       "branch": "R",
       "device": "AD",
-      "defconfig": "wasabi_defconfig"
+      "defconfig": "NoMercy_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
