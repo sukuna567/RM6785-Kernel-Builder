@@ -7,7 +7,7 @@
       "device": "AD",
       "defconfig": "NoMercy_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://gitlab.com/LeCmnGend/clang.git",
