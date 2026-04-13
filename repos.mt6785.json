@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Esport-Edition-NoMercy",
-      "repo": "https://github.com/sukuna567/Esport-Edition-NoMercy",
-      "branch": "R",
+      "repo": "https://github.com/sukuna567/kernel_realme_salaa",
+      "branch": "14",
       "device": "AD",
-      "defconfig": "NoMercy_defconfig"
+      "defconfig": "salaa_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
