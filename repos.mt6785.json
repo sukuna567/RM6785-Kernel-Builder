@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Esport-Edition-NoMercy",
-      "repo": "https://github.com/sukuna567/kernel_realme_salaa",
-      "branch": "14",
-      "device": "AD",
-      "defconfig": "salaa_defconfig"
+      "repo": "https://github.com/negrroo/LawRun_xiaomi_sm6250",
+      "branch": "master",
+      "device": "Lawrun",
+      "defconfig": "LawRun_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
