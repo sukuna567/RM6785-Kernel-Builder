@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": {
-      "name": "Esport-Edition-NoMercy",
+      "name": "kernel",
       "repo": "https://github.com/negrroo/LawRun_xiaomi_sm6250",
       "branch": "master",
-      "device": "Lawrun",
+      "device": "",
       "defconfig": "LawRun_defconfig"
     },
     "withKernelSU": true,
