@@ -129,14 +129,14 @@ jobs:
           arch: ${{ steps.generate-args.outputs.ARCH }}
         if: ${{ env.withKernelSU == 'true' }}
         run: |
-          if [ -d "./KernelSU-Next" ]; then
-            rm -rf "./KernelSU-Next"
+          if [ -d "./Kernelsu" ]; then
+            rm -rf "./Kernelsu"
           fi
           if [ -d "./drivers/kernelsu" ]; then
             rm -rf "./drivers/kernelsu"
           fi
 
-          curl -LSs "https://github.com/backslashxx/KernelSU/raw/refs/heads/master/kernel/setup.sh" | bash -s master
+          curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -
 
           cat arch/${{ env.arch }}/configs/${{ env.DEFCONFIG_NAME }}
 
